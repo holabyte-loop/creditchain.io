@@ -501,7 +501,7 @@ Cryptocurrency lending involves risks including but not limited to:
 ## 📞 Contact
 
 - **General Inquiries**: holabyte@gmail.com
-- 
+
 ## coming soon
 - **General Inquiries**: hello@creditchain.io
 - **Technical Support**: support@creditchain.io
